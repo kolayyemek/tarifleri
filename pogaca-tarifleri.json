@@ -84,34 +84,6 @@
     "detayli_tarif_url": "https://yemekyarismasi.com/pogaca-tarifleri/peynirli-pogaca-tarifi"
   },
   {
-    "id": "76a8c91e-2d70-4239-94fd-e74b5d56f76a",
-    "baslik": "Sütlü poğaça tarifi",
-    "kategori_slug": "pogaca-tarifleri",
-    "hazirlik_suresi": "1.5 saat",
-    "pisirme_suresi": "Fanlı 25 Dk, Fansız 30 Dk",
-    "gorsel_url": "/resim/sutlu-pogaca-tarifi.jpg",
-    "kisa_aciklama": "Türk mutfağında poğaça tarifleri için günün ev poğaçası; klasik, dışı hafif çıtır içi yumuşacık pastane usulü sütlü poğaça nasıl yapılır? Sütlü yumuş yumuş poğaça tarifi ve yapılışı için malzemeleri inceleyin. ",
-    "ana_malzemeler": [
-      "240ml ılık süt",
-      "240ml ılık su",
-      "60ml sıvı yağ",
-      "10g instant maya",
-      "25g toz şeker",
-      "5g tuz",
-      "1 adet yumurta akı",
-      "625-700g un",
-      "75g tereyağı",
-      "1 adet yumurta sarısı"
-    ],
-    "besin_degerleri": {
-      "kalori": "200 kcal",
-      "protein": "6g",
-      "yag": "8g",
-      "karbonhidrat": "30g"
-    },
-    "detayli_tarif_url": "https://yemekyarismasi.com/pogaca-tarifleri/sutlu-pogaca-tarifi"
-  },
-  {
     "id": "82a6e3bb-b1d8-4182-bf22-5a80094df1cd",
     "baslik": "Kıyır poğaça tarifi",
     "kategori_slug": "pogaca-tarifleri",
@@ -138,6 +110,34 @@
       "karbonhidrat": "42g"
     },
     "detayli_tarif_url": "https://yemekyarismasi.com/pogaca-tarifleri/kiyir-pogaca-tarifi"
+  },
+  {
+    "id": "76a8c91e-2d70-4239-94fd-e74b5d56f76a",
+    "baslik": "Sütlü poğaça tarifi",
+    "kategori_slug": "pogaca-tarifleri",
+    "hazirlik_suresi": "1.5 saat",
+    "pisirme_suresi": "Fanlı 25 Dk, Fansız 30 Dk",
+    "gorsel_url": "/resim/sutlu-pogaca-tarifi.jpg",
+    "kisa_aciklama": "Türk mutfağında poğaça tarifleri için günün ev poğaçası; klasik, dışı hafif çıtır içi yumuşacık pastane usulü sütlü poğaça nasıl yapılır? Sütlü yumuş yumuş poğaça tarifi ve yapılışı için malzemeleri inceleyin. ",
+    "ana_malzemeler": [
+      "240ml ılık süt",
+      "240ml ılık su",
+      "60ml sıvı yağ",
+      "10g instant maya",
+      "25g toz şeker",
+      "5g tuz",
+      "1 adet yumurta akı",
+      "625-700g un",
+      "75g tereyağı",
+      "1 adet yumurta sarısı"
+    ],
+    "besin_degerleri": {
+      "kalori": "200 kcal",
+      "protein": "6g",
+      "yag": "8g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/pogaca-tarifleri/sutlu-pogaca-tarifi"
   },
   {
     "id": "d6e227f3-d0ad-43f2-8168-73a3087648ef",
