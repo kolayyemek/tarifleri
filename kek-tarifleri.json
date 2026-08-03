@@ -1,0 +1,114 @@
+[
+  {
+    "id": "3eb144c8-c5d7-4b77-aebb-c0b6d5c298b8",
+    "baslik": "Kakaolu Vanilyalı Kek Tarifi",
+    "kategori_slug": "kek-tarifleri",
+    "hazirlik_suresi": "25-30 Dk",
+    "pisirme_suresi": "25-30 Dk",
+    "gorsel_url": "/resim/kakaolu-vanilyali-kek-tarifi.webp",
+    "kisa_aciklama": "Pasta ve kek tarifleri için günün önerisi ebru kek nasıl yapılır? Kakaolu vanilyalı ebru kek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "3 adet yumurta (150g)",
+      "200g toz şeker",
+      "250ml süt",
+      "125ml sıvı yağ",
+      "250g un",
+      "20g kakao",
+      "1 paket kabartma tozu",
+      "1 paket vanilya",
+      "250ml süt",
+      "50g toz şeker"
+    ],
+    "besin_degerleri": {
+      "kalori": "360 kcal",
+      "protein": "7g",
+      "yag": "12g",
+      "karbonhidrat": "56g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kek-tarifleri/kakaolu-vanilyali-kek-tarifi"
+  },
+  {
+    "id": "ffd949d0-e7b8-4808-85c6-51f5bce1303a",
+    "baslik": "Fıstıklı Ebru Kek Tarifi",
+    "kategori_slug": "kek-tarifleri",
+    "hazirlik_suresi": "20 Dk",
+    "pisirme_suresi": "Fanlı 40 Dk, Fansız 45 Dk",
+    "gorsel_url": "/resim/fistikli-ebru-kek-tarifi.webp",
+    "kisa_aciklama": "Kolay kek tarifleri ile sunumluk kek yapımı için günün keki; Ebru desenli Antep fıstıklı ebruli kek nasıl yapılır? Antep fıstıklı ebruli kek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "240g yumurta (oda sıcaklığında)",
+      "300g toz şeker",
+      "240ml süt",
+      "240ml sıvı yağ",
+      "8g vanilya",
+      "10g kabartma tozu",
+      "312g un",
+      "40g ince çekilmiş Antep fıstığı (veya pürüzsüz ıspanak püresi)",
+      "80g beyaz çikolata (eritilmiş)",
+      "30ml sıvı krema"
+    ],
+    "besin_degerleri": {
+      "kalori": "300 kcal",
+      "protein": "8g",
+      "yag": "15g",
+      "karbonhidrat": "38g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kek-tarifleri/fistikli-ebruli-kek-tarifi"
+  },
+  {
+    "id": "1dd23ee8-daf3-4f15-9615-bafdfedc294f",
+    "baslik": "Sürprizli kalp kek tarifi",
+    "kategori_slug": "kek-tarifleri",
+    "hazirlik_suresi": "40 Dk",
+    "pisirme_suresi": "60 Dk",
+    "gorsel_url": "/resim/surprizli-kalp-kek-tarifi.webp",
+    "kisa_aciklama": "Sunumluk yemek tarifleri ve kek tarifleri için günün önerisi; kalp kek nasıl yapılır? Çift renkli içi kalpli kek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "3 adet yumurta (180g)",
+      "200g toz şeker",
+      "120ml sıvı yağ",
+      "120ml süt",
+      "250g un",
+      "10g kabartma tozu",
+      "5g vanilya",
+      "1 çay kaşığı gıda boyası",
+      "3 adet yumurta (180g)",
+      "200g toz şeker"
+    ],
+    "besin_degerleri": {
+      "kalori": "295 kcal",
+      "protein": "4g",
+      "yag": "10g",
+      "karbonhidrat": "45g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kek-tarifleri/surprizli-kalp-kek-tarifi"
+  },
+  {
+    "id": "bd5d8d2d-e05d-43d3-8814-4c269a96cdef",
+    "baslik": "Vanilyalı Kek Tarifi",
+    "kategori_slug": "kek-tarifleri",
+    "hazirlik_suresi": "15-20 DK",
+    "pisirme_suresi": "40-45 DK",
+    "gorsel_url": "/resim/vanilyali-kek-tarifi.webp",
+    "kisa_aciklama": "Atıştırmalık ve ikramlık kek tarifleri için günün önerisi; evde bademli ve vanilyalı baton kek nasıl yapılır? Ev yapımı bademli vanilyalı baton kek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "3 adet yumurta (oda sıcaklığında)",
+      "1 su bardağı toz şeker",
+      "1/2 su bardağı tereyağı (eritilmiş ve ılıtılmış)",
+      "1/2 su bardağı süt veya yoğurt",
+      "2 su bardağı un (elenmiş)",
+      "1 paket kabartma tozu",
+      "1 paket vanilya",
+      "Bir çimdik tuz",
+      "1/2 su bardağı çiğ badem (bütün halde)",
+      "2-3 yemek kaşığı file badem (isteğe bağlı)"
+    ],
+    "besin_degerleri": {
+      "kalori": "460 kcal",
+      "protein": "9g",
+      "yag": "21g",
+      "karbonhidrat": "58g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kek-tarifleri/vanilyali-kek-tarifi"
+  }
+]

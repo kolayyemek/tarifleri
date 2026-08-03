@@ -1,0 +1,84 @@
+[
+  {
+    "id": "f8a43a32-fad3-4844-b0fd-44a6073c2f35",
+    "baslik": "Amerikan Salatası Tarifi",
+    "kategori_slug": "meze-tarifleri",
+    "hazirlik_suresi": "15-20 Dk",
+    "pisirme_suresi": "15-20 Dk",
+    "gorsel_url": "/resim/amerikan-salatasi-tarifi.webp",
+    "kisa_aciklama": "Evde Amerikan Salatası Nasıl Yapılır? Ev yapımı Amerikan Salatası Tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "300g patates",
+      "150g havuç",
+      "150g haşlanmış bezelye",
+      "80g kornişon turşu",
+      "100g küp doğranmış salam veya jambon",
+      "2 adet haşlanmış yumurta",
+      "375g mayonez",
+      "150g süzme yoğurt",
+      "1 fiske tuz",
+      "1 fiske karabiber"
+    ],
+    "besin_degerleri": {
+      "kalori": "350 kcal",
+      "protein": "12g",
+      "yag": "28g",
+      "karbonhidrat": "20g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/meze-tarifleri/amerikan-salatasi-tarifi"
+  },
+  {
+    "id": "1a8805b3-6ae2-432e-b2a2-535c255fd8d6",
+    "baslik": "Enginar mezesi tarifi",
+    "kategori_slug": "meze-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Tava 15 Dk",
+    "gorsel_url": "/resim/enginar-mezesi-tarifi.webp",
+    "kisa_aciklama": "Sos tarifleri ve meze tarifleri için günün sosu; yoğurt soslu soğanlı enginarlı meze nasıl yapılır? Yoğurlu soğanlı enginar mezesi tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "300g enginar (3 adet ufak boy enginar)",
+      "100g kuru soğan (1 adet)",
+      "50ml zeytinyağı (yarım çay bardağı)",
+      "50g badem (bir avuç)",
+      "300g süzme yoğurt (1,5 su bardağı)",
+      "15g hardal (1 yemek kaşığı)",
+      "50ml limon suyu (yarım limon)",
+      "5g tuz (bir tutam)"
+    ],
+    "besin_degerleri": {
+      "kalori": "180 kcal",
+      "protein": "7g",
+      "yag": "11g",
+      "karbonhidrat": "18g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/meze-tarifleri/enginar-mezesi-tarifi"
+  },
+  {
+    "id": "054f3124-651f-4d45-b9d9-47fb8d59242f",
+    "baslik": "Rus Salatası Tarifi",
+    "kategori_slug": "meze-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Tencere 20 Dk",
+    "gorsel_url": "/resim/rus-salatasi-tarifi.webp",
+    "kisa_aciklama": "Evde Rus Salatası Nasıl Yapılır? Ev yapımı Rus salatası tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "400g patates",
+      "150g havuç",
+      "150g bezelye",
+      "100g kornişon turşu",
+      "100g jambon veya salam",
+      "2 adet haşlanmış yumurta",
+      "200g mayonez",
+      "50g süzme yoğurt",
+      "15g hardal",
+      "tuz"
+    ],
+    "besin_degerleri": {
+      "kalori": "250 kcal",
+      "protein": "12g",
+      "yag": "15g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/meze-tarifleri/rus-salatasi-tarifi"
+  }
+]

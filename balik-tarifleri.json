@@ -1,0 +1,65 @@
+[
+  {
+    "id": "5db07799-26c2-46aa-9a55-49bafa3b6154",
+    "baslik": "Fırında Zeytinyağlı Sardalya Tarifi",
+    "kategori_slug": "balik-tarifleri",
+    "hazirlik_suresi": "20 Dk",
+    "pisirme_suresi": "Fanlı 25 Dk, Fansız 30 Dk",
+    "gorsel_url": "/resim/firinda-zeytinyagli-sardalya-tarifi.webp",
+    "kisa_aciklama": "Fırında balık tarifleri için günün önerisi zeytinyağlı sardalya nasıl yapılır? Fırında zeytinyağlı sardalya tarifi ve yapılışı için malzemeleri inceleyin. ",
+    "ana_malzemeler": [
+      "<ul><li>2.4 su bardağı taze sardalya (ayıklanmış ve temizlenmiş)</li><li>2 adet kırmızı soğan (ince halkalar halinde doğranmış)</li><li>15-20 adet çeri domates (yarım kesilmiş)</li><li>4-5 diş sarımsak (ince dilimlenmiş)</li><li>1/2 demet taze maydanoz (doğranmış)</li><li>1/4 demet taze dereotu (doğranmış, isteğe bağlı)</li><li>2-3 adet defne yaprağı</li><li>1 adet limon (yarısı dilimlenmiş, yarısı suyu için)</li><li>1/2 su bardağı zeytinyağı</li><li>1/4 su bardağı beyaz şarap veya su/balık suyu</li><li>1 çay kaşığı pul biber (isteğe bağlı)</li><li>Tuz (damak zevkine göre)</li><li>Taze çekilmiş karabiber (damak zevkine göre)</li></ul>"
+    ],
+    "besin_degerleri": {
+      "kalori": "350 kcal",
+      "protein": "30g",
+      "yag": "22g",
+      "karbonhidrat": "10g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/balik-tarifleri/firinda-zeytinyagli-sardalya-tarifi"
+  },
+  {
+    "id": "e25cde1a-f8dc-41b5-b332-261a439bed28",
+    "baslik": "Fırında Sebzeli Kalkan Balığı Tarifi",
+    "kategori_slug": "balik-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 25-30 Dk",
+    "gorsel_url": "/resim/firinda-sebzeli-kalkan-baligi-tarifi.webp",
+    "kisa_aciklama": "Balık tarifleri için günün önerisi sanatsal sunum ile fırında sebzeli kalkan balığı nasıl pişirilir? Fırında kalkan tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "Balık: 1 adet bütün kalkan balığı (yaklaşık 1-1.5 kg, temizlenmiş).",
+      "Sos İçin:",
+      "4 yemek kaşığı zeytinyağı",
+      "2 diş ezilmiş sarımsak",
+      "1 tatlı kaşığı taze kekik (veya kurutulmuş)",
+      "Yarım limonun suyu",
+      "Tuz ve karabiber"
+    ],
+    "besin_degerleri": {
+      "kalori": "250 kcal",
+      "protein": "30g",
+      "yag": "18g",
+      "karbonhidrat": "10g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/balik-tarifleri/firinda-sebzeli-kalkan-baligi-tarifi"
+  },
+  {
+    "id": "72e724df-f3cd-47b7-82b5-eac437937e8a",
+    "baslik": "Tavada Lüfer Fileto Tarifi",
+    "kategori_slug": "balik-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "3-4 Dk, 5-7 Dk, 5-7 Dk",
+    "gorsel_url": "/resim/tavada-lufer-fileto-tarifi.webp",
+    "kisa_aciklama": "Balık tarifleri için günün önerisi lüfer fileto nasıl yapılır? Tavada lüfer fileto tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "<ul><li>2 adet lüfer</li><li>1 su bardağı kiraz domates (yarıya kesilmiş)</li><li>3 yemek kaşığı yeşil zeytin (çekirdeksiz)</li><li>3 yemek kaşığı siyah zeytin (çekirdeksiz)</li><li>3 yemek kaşığı sızma zeytinyağı</li><li>2 diş sarımsak (ince dilimlenmiş)</li><li>Yarım limonun suyu</li><li>Yarım çay bardağı su veya beyaz şarap (isteğe bağlı, sos için)</li><li>Taze kekik veya biberiye (birkaç dal, servis için de kullanılabilir)</li><li>Taze maydanoz (kıyılmış, üzeri için)</li><li>Tuz</li><li>Karabiber</li><li>Kırmızı pul biber (isteğe bağlı)</li></ul>"
+    ],
+    "besin_degerleri": {
+      "kalori": "450 kcal",
+      "protein": "32g",
+      "yag": "30g",
+      "karbonhidrat": "8g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/balik-tarifleri/tavada-lufer-fileto-tarifi"
+  }
+]

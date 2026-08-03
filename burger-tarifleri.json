@@ -1,0 +1,30 @@
+[
+  {
+    "id": "21a43b78-aecd-454c-afac-8bd83cc2d187",
+    "baslik": "Et burger tarifi",
+    "kategori_slug": "burger-tarifleri",
+    "hazirlik_suresi": "20 Dk",
+    "pisirme_suresi": "Fanlı 180 Dk, Fansız 240 Dk",
+    "gorsel_url": "/resim/et-burger-tarifi.webp",
+    "kisa_aciklama": "Et yemekleri için günün önerisi; evde didiklenmiş et burger nasıl yapılır? Ev yapımı didiklenmiş et burger tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "500g dana antrikot veya kol eti",
+      "Tuz",
+      "Karabiber",
+      "Sarımsak tozu",
+      "Tütsülenmiş toz kırmızı biber",
+      "1-2 dilim cheddar peyniri",
+      "Çeyrek adet mor lahana",
+      "Çeyrek adet beyaz lahana",
+      "İnce kıyılmış taze yeşillikler",
+      "3 yemek kaşığı mayonez"
+    ],
+    "besin_degerleri": {
+      "kalori": "500 kcal",
+      "protein": "35g",
+      "yag": "28g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/burger-tarifleri/et-burger-tarifi"
+  }
+]

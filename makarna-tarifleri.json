@@ -1,0 +1,133 @@
+[
+  {
+    "id": "24b89632-817d-428c-9bd3-858b83caf838",
+    "baslik": "Pesto Soslu Makarna Tarifi",
+    "kategori_slug": "makarna-tarifleri",
+    "hazirlik_suresi": "15-20 DK",
+    "pisirme_suresi": "8-10 DK",
+    "gorsel_url": "/resim/pesto-soslu-makarna-tarifi.webp",
+    "kisa_aciklama": "Evde pesto soslu makarna salatası nasıl yapılır? Pesto soslu makarna tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "Yarım paket Burgu (Fusilli) makarna (250g)",
+      "Bir avuç çeri domates (100g)",
+      "Mini mozzarella topları (150g)",
+      "Taze bebek ıspanak yaprakları (50g)",
+      "Taze fesleğen (10g)",
+      "Bir yemek kaşığı dolmalık fıstık (10g)",
+      "2 demet taze fesleğen (120g)",
+      "2 diş sarımsak (10g)",
+      "1 kahve fincanı zeytinyağı (80ml)",
+      "Yarım su bardağı rendelenmiş parmesan (50g)"
+    ],
+    "besin_degerleri": {
+      "kalori": "360 kcal",
+      "protein": "16g",
+      "yag": "18g",
+      "karbonhidrat": "38g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/makarna-tarifleri/pesto-soslu-makarna-tarifi"
+  },
+  {
+    "id": "084869b2-6f94-4b68-bfaf-e7b3e2a2b106",
+    "baslik": "Bolonez Soslu Spagetti Tarifi",
+    "kategori_slug": "makarna-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 40 Dk, Fansız 50 Dk",
+    "gorsel_url": "/resim/bolonez-soslu-spagetti-tarifi.webp",
+    "kisa_aciklama": "Dünya mutfaklarından makarna tarifleri için günün önerisi; bolonez soslu spagetti nasıl yapılır? Bolonez soslu spagetti makarna tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "500g spagetti,",
+      "400g orta yağlı dana kıyma,",
+      "1 adet kuru soğan,",
+      "1 adet havuç,",
+      "1 adet kereviz sapı (hepsi çok ince doğranmış),",
+      "2 yemek kaşığı domates salçası, ",
+      "400g domates rendesi,",
+      "(veya konserve domates),",
+      "2 diş sarımsak"
+    ],
+    "besin_degerleri": {
+      "kalori": "600 kcal",
+      "protein": "30g",
+      "yag": "20g",
+      "karbonhidrat": "70g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/makarna-tarifleri/bolonez-soslu-spagetti-tarifi"
+  },
+  {
+    "id": "4ff8327f-81b8-4857-a5db-4d11b2010591",
+    "baslik": "Kremalı Penne Arrabiata Tarifi",
+    "kategori_slug": "makarna-tarifleri",
+    "hazirlik_suresi": "10 Dk",
+    "pisirme_suresi": "Tencere",
+    "gorsel_url": "/resim/kremali-penne-arrabiata-tarifi.webp",
+    "kisa_aciklama": "Dünya mutfaklarından makarna tarifleri için günün makarnası; pembe soslu kremalı penne arrabbiata nasıl yapılır? Kremalı penne arrabbiata tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "Makarna: 500g penne (kalem) makarna.",
+      "Sos: 400g domates rendesi, 1/2 su bardağı krema (%35 yağlı), 3-4 diş sarımsak (ince dilimlenmiş).",
+      "Acı: 2 tatlı kaşığı pul biber veya 2 adet küçük kurutulmuş acı Arnavut biberi.",
+      "Yağ & Baharat: 4 yemek kaşığı sızma zeytinyağı, tuz, taze karabiber.",
+      "Servis: Rendelenmiş parmesan peyniri, taze fesleğen yaprakları."
+    ],
+    "besin_degerleri": {
+      "kalori": "600 kcal",
+      "protein": "16g",
+      "yag": "25g",
+      "karbonhidrat": "80g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/makarna-tarifleri/kremali-penne-arrabiata-tarifi"
+  },
+  {
+    "id": "24433797-de72-4c00-b680-647f9fd57849",
+    "baslik": "Kıyma Soslu Makarna Salatası Tarifi",
+    "kategori_slug": "makarna-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Tava 20 Dk",
+    "gorsel_url": "/resim/kiyma-soslu-makarna-salatasi-tarifi.webp",
+    "kisa_aciklama": "Kıyma Soslu Makarna Salatası Nasıl Yapılır? Kıyma soslu makarna tarifi ve yapımı için gerekli malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "400g makarna",
+      "200g az yağlı dana kıyma",
+      "150g kuru soğan",
+      "150g kırmızı salçalık biber",
+      "100g yeşil biber",
+      "10g sarımsak",
+      "20g domates salçası",
+      "30ml zeytinyağı",
+      "15g maydanoz",
+      "120g haşlanmış mısır"
+    ],
+    "besin_degerleri": {
+      "kalori": "400 kcal",
+      "protein": "25g",
+      "yag": "15g",
+      "karbonhidrat": "60g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/makarna-tarifleri/kiyma-soslu-makarna-salatasi-tarifi"
+  },
+  {
+    "id": "c2f5e00e-3512-4544-a0cc-4500177f5c77",
+    "baslik": "Kremalı Arrabbiata Tarifi",
+    "kategori_slug": "makarna-tarifleri",
+    "hazirlik_suresi": "10 Dk",
+    "pisirme_suresi": "15 Dk",
+    "gorsel_url": "/resim/kremali-arrabbiata-tarifi.webp",
+    "kisa_aciklama": "Dünya mutfaklarından makarna tarifleri için günün önerisi kremalı arrabbiata yani pembe soslu spagetti nasıl yapılır? Kremalı Arrabbiata tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "Makarna: 500g spagetti.",
+      "Domates Bazı: 400g domates rendesi veya küp doğranmış domates.",
+      "Sıvılar: 1 su bardağı krema (%20 veya %35 yağ oranlı).",
+      "Aroma: 3 diş sarımsak (ezilmiş), 1 adet küçük kuru soğan (ince yemeklik doğranmış).",
+      "Acı: 1-2 tatlı kaşığı pul biber (damak tadınıza göre artırabilirsiniz).",
+      "Diğer: 3 yemek kaşığı zeytinyağı, bir tutam tuz.",
+      "Servis İçin: Taze fesleğen yaprakları ve rendelenmiş parmesan peyniri."
+    ],
+    "besin_degerleri": {
+      "kalori": "650 kcal",
+      "protein": "15g",
+      "yag": "30g",
+      "karbonhidrat": "75g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/makarna-tarifleri/kremali-arrabbiata-tarifi"
+  }
+]

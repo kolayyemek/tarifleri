@@ -1,0 +1,99 @@
+[
+  {
+    "id": "48c7bc84-9843-4746-9cba-a8e2da92baa9",
+    "baslik": "Çiçek Yumurta Tarifi",
+    "kategori_slug": "kahvaltilik-tarifleri",
+    "hazirlik_suresi": "5-10 Dk",
+    "pisirme_suresi": "4-5 Dk",
+    "gorsel_url": "/resim/cicek-yumurta-tarifi.webp",
+    "kisa_aciklama": "Dekoratif tabak süslemeleri ile sunum için çiçek yumurta nasıl yapılır? Sunumluk omlet tarifi ve yapımı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "Yumurta: 180-240g",
+      "Soğan: 100-150g",
+      "Çörek otu: 5g",
+      "Tuz: 5g",
+      "Karabiber: 5g",
+      "Sıvı yağ veya tereyağı: 10-15ml"
+    ],
+    "besin_degerleri": {
+      "kalori": "285 kcal",
+      "protein": "18g",
+      "yag": "20g",
+      "karbonhidrat": "6g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kahvaltilik-tarifleri/cicek-yumurta-tarifi"
+  },
+  {
+    "id": "29743e62-86ca-433f-9996-808423bd84c3",
+    "baslik": "Yeşil Soğanlı Kalp Yumurta Tarifi",
+    "kategori_slug": "kahvaltilik-tarifleri",
+    "hazirlik_suresi": "5 DK",
+    "pisirme_suresi": "2-3 DK",
+    "gorsel_url": "/resim/yesil-soganli-kalp-yumurta-tarifi.webp",
+    "kisa_aciklama": "Dekoratif sunum tabağı ile kahvaltılık kalp formunda yeşil soğanlı yumurta nasıl yapılır? Şık sunumlar için kalp yumurta tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "2 adet büyük boy yumurta (yaklaşık 120g)",
+      "2-3 dal uzun ve taze yeşil soğan (yaklaşık 30g)",
+      "1 tatlı kaşığı tereyağı veya sıvı yağ (yaklaşık 5g)",
+      "Tuz (tahmini miktar)",
+      "Pul biber (tahmini miktar)",
+      "Teflon veya yapışmaz yüzeyli düz bir tava"
+    ],
+    "besin_degerleri": {
+      "kalori": "210 kcal",
+      "protein": "14g",
+      "yag": "15g",
+      "karbonhidrat": "2g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kahvaltilik-tarifleri/yesil-soganli-kalp-yumurta-tarifi"
+  },
+  {
+    "id": "fff34b63-1db4-45f3-9981-4c147c5427fe",
+    "baslik": "Kahvaltılık krep tarifi",
+    "kategori_slug": "kahvaltilik-tarifleri",
+    "hazirlik_suresi": "5 Dakika",
+    "pisirme_suresi": "10 Dk",
+    "gorsel_url": "/resim/kahvaltilik-ktep-tarifi.webp",
+    "kisa_aciklama": "Çocuklar için sunum tabakları ile kahvaltılık krep tarifleri için günün önerisi: ahtapot sosisli yumurta krep nasıl pişirilir? Sosisli yumurtalı krep tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "3 adet büyük boy yumurta (180g)",
+      "1 adet uzun sosis (100g) veya 2 adet kokteyl sosis (60g)",
+      "1 yemek kaşığı tereyağı (10g) veya sıvı yağ (10ml)",
+      "Tuz (5g)",
+      "Karabiber (isteğe bağlı 1g)"
+    ],
+    "besin_degerleri": {
+      "kalori": "350 kcal",
+      "protein": "28g",
+      "yag": "25g",
+      "karbonhidrat": "20g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kahvaltilik-tarifleri/kahvaltilik-ktep-tarifi"
+  },
+  {
+    "id": "a60b7bad-9199-48a7-94a0-2072e1bf09b3",
+    "baslik": "Sunumluk Çiçek yumurta tarifi",
+    "kategori_slug": "kahvaltilik-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Tava 5 Dk",
+    "gorsel_url": "/resim/sunumluk-cicek-yumurta-tarifi.webp",
+    "kisa_aciklama": "Kahvaltılık ikramlar için günün sunum önerisi; Biberli çiçek yumurta nasıl pişirilir? Biberli çiçek omlet tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "Yumurta: 2 adet (yaklaşık 100g)",
+      "Kırmızı Kapya Biber: 1 büyük halka (yaklaşık 50g)",
+      "Mor Soğan: 1 dilim (yaklaşık 20g)",
+      "Domates: Küçük küpler halinde doğranmış (yaklaşık 30g)",
+      "Yeşil Biber: İnce kıyılmış (yaklaşık 10g)",
+      "Tuz: İsteğe bağlı",
+      "Siyah Çörek Otu: Üzerine serpmek için (yaklaşık 5g)",
+      "Pişirme Yağı: 1 tatlı kaşığı tereyağı veya sıvı yağ (yaklaşık 10g)"
+    ],
+    "besin_degerleri": {
+      "kalori": "220 kcal",
+      "protein": "12g",
+      "yag": "15g",
+      "karbonhidrat": "8g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kahvaltilik-tarifleri/sunumluk-cicek-yumurta-tarifi"
+  }
+]

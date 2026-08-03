@@ -1,0 +1,132 @@
+[
+  {
+    "id": "6aea6fd5-9331-4583-8223-1996c46fd2e4",
+    "baslik": "Kıymalı Cheetos Salata tarifi",
+    "kategori_slug": "salata-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Tava 10 Dk",
+    "gorsel_url": "/resim/kiymali-cheetos-salata-tarifi.webp",
+    "kisa_aciklama": "Nefis salata tarifleri için günün salatası; kıymalı Cheetos salata nasıl yapılır? Kıymalı Cheetoslu salata tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "200-250g az yağlı dana kıyma",
+      "1 adet küçük boy soğan",
+      "100g rendelenmiş cheddar veya kaşar peyniri",
+      "1 büyük paket Cheetos Peynirli (Crunchy)",
+      "1 adet olgun avokado",
+      "10ml yarım limon suyu",
+      "tuz",
+      "1 diş sarımsak (ezilmiş)",
+      "1 adet domates (küp doğranmış)",
+      "50g yarım soğan"
+    ],
+    "besin_degerleri": {
+      "kalori": "400 kcal",
+      "protein": "22g",
+      "yag": "20g",
+      "karbonhidrat": "35g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/salata-tarifleri/kiymali-cheetos-salata-tarifi"
+  },
+  {
+    "id": "38786c5c-1806-46f5-9be6-58ff93576216",
+    "baslik": "Avakadolu karides salatası tarifi",
+    "kategori_slug": "salata-tarifleri",
+    "hazirlik_suresi": "10-15 Dk",
+    "pisirme_suresi": "0 Dk",
+    "gorsel_url": "/resim/avakadolu-karides-salatasi-tarifi.webp",
+    "kisa_aciklama": "Deniz mahsulleri ile sağlıklı salata tarifleri için günün salata tarifi; karidesli ve avokadolu yaz salatası nasıl yapılır? Avakadolu karidesli salata tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "500g ayıklanmış ve haşlanmış orta boy karides",
+      "300g olgun ama formunu koruyan avokado (küp doğranmış)",
+      "75g mor soğan (ince yemeklik doğranmış)",
+      "10g taze maydanoz veya kişniş (ince kıyılmış)",
+      "45ml sızma zeytinyağı",
+      "30ml taze sıkılmış limon suyu",
+      "1 diş ezilmiş sarımsak",
+      "Tuz ve taze çekilmiş karabiber",
+      "Bir tutam pul biber (isteğe bağlı)"
+    ],
+    "besin_degerleri": {
+      "kalori": "295 kcal",
+      "protein": "27g",
+      "yag": "21g",
+      "karbonhidrat": "6g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/salata-tarifleri/avakadolu-karides-salatasi-tarifi"
+  },
+  {
+    "id": "c05055e4-c576-485e-808e-08daf4ee0e7c",
+    "baslik": "Mini Karidesli Gurme Salata Tarifi",
+    "kategori_slug": "salata-tarifleri",
+    "hazirlik_suresi": "10-15 DK",
+    "pisirme_suresi": "0 DK",
+    "gorsel_url": "/resim/mini-karidesli-gurme-salata-tarifi.webp",
+    "kisa_aciklama": "Deniz mahsulleri ve sağlıklı salatalar sevenler için günün tarifi; mini karidesli salata nasıl yapılır? Mini karidesli gurme salata tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "250g mini karides (haşlanmış ve ayıklanmış)",
+      "100g karışık Akdeniz yeşilliği (roka, kuzu kulağı ve marul)",
+      "100g salatalık (yarım ay şeklinde doğranmış)",
+      "150g avokado (küp doğranmış)",
+      "100g çeri domates (kırmızı ve sarı karışık, halka doğranmış)",
+      "50g kırmızı soğan (ince piyazlık doğranmış)",
+      "45ml sızma zeytinyağı",
+      "15ml taze limon suyu",
+      "5g hardal (isteğe bağlı)",
+      "Tuz"
+    ],
+    "besin_degerleri": {
+      "kalori": "290 kcal",
+      "protein": "20g",
+      "yag": "18g",
+      "karbonhidrat": "16g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/salata-tarifleri/mini-karidesli-gurme-salata-tarifi"
+  },
+  {
+    "id": "ae1df6ce-d8c0-40ba-96ed-f5db037ed4b1",
+    "baslik": "Kısır Tarifi",
+    "kategori_slug": "salata-tarifleri",
+    "hazirlik_suresi": "25 Dk",
+    "pisirme_suresi": "20 Dk",
+    "gorsel_url": "/resim/kisir-tarifi.webp",
+    "kisa_aciklama": "Kısır salatası nasıl yapılır? Kısır salata tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "300g ince bulgur",
+      "1 adet orta boy nar (tanelenmiş)",
+      "100g ceviz içi (iri parçalanmış)",
+      "50g taze maydanoz (ince kıyılmış)",
+      "25g taze nane (ince kıyılmış)",
+      "4-5 dal taze soğan (ince kıyılmış)",
+      "200g domates (küp küp doğranmış)",
+      "50g yeşil biber (ince doğranmış, isteğe bağlı)",
+      "50g kırmızı kapya biber (ince doğranmış, isteğe bağlı)",
+      "30g domates salçası"
+    ],
+    "besin_degerleri": {
+      "kalori": "270 kcal",
+      "protein": "10g",
+      "yag": "14g",
+      "karbonhidrat": "45g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/salata-tarifleri/kisir-tarifi"
+  },
+  {
+    "id": "785056da-7c63-4305-8a03-f837dc01ef1e",
+    "baslik": "Akdeniz Salatası Şişleri Tarifi",
+    "kategori_slug": "salata-tarifleri",
+    "hazirlik_suresi": "20 Dk",
+    "pisirme_suresi": "Tava 0 Dk",
+    "gorsel_url": "/resim/akdeniz-salatasi-sisleri-tarifi.webp",
+    "kisa_aciklama": "Sunumluk tarifler için günün önerisi Akdeniz salatası şişleri nasıl yapılır? Yapımı için tarifi ve malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "<ul><li>1 adet büyük boy salatalık</li><li>0.9 su bardağı feta peyniri (küp doğranmış)</li><li>20-25 adet çeri domates</li><li>20-25 adet çekirdeksiz siyah zeytin (Kalamata tipi tercih edilir)</li><li>3 yemek kaşığı sızma zeytinyağı</li><li>1 yemek kaşığı ince kıyılmış taze dereotu veya kekik</li><li>Yarım çay kaşığı tuz</li><li>Çeyrek çay kaşığı taze çekilmiş karabiber</li><li>Yaklaşık 20-25 adet küçük tahta şiş</li></ul>"
+    ],
+    "besin_degerleri": {
+      "kalori": "190 kcal",
+      "protein": "8g",
+      "yag": "16g",
+      "karbonhidrat": "4g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/salata-tarifleri/akdeniz-salatasi-sisleri-tarifi"
+  }
+]

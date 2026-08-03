@@ -1,0 +1,58 @@
+[
+  {
+    "id": "b1b9dc76-bc71-4621-a0da-4232c6bbdb48",
+    "baslik": "Sebzeli tavuk güveç tarifi",
+    "kategori_slug": "sebze-tarifleri",
+    "hazirlik_suresi": "15-20 Dk",
+    "pisirme_suresi": "45-50 Dk",
+    "gorsel_url": "/resim/sebzeli-tavuk-guvec-tarifi.webp",
+    "kisa_aciklama": "Tavuk yemeği yapımı için günün tavuk tarifi; Sebzeli tavuk güveç nasıl yapılır? Tavuk güveç tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "500-600 gr tavuk kalça şiş veya kuşbaşı doğranmış tavuk göğsü (görseldeki gibi bütün kalça da kullanılabilir)",
+      "2 adet orta boy patates",
+      "2 adet yeşil biber",
+      "1 adet kırmızı kapya biber",
+      "1 adet büyük boy kuru soğan",
+      "3-4 diş sarımsak",
+      "1 adet havuç",
+      "1 yemek kaşığı domates salçası",
+      "Yarım çay bardağı zeytinyağı",
+      "1 su bardağı sıcak su"
+    ],
+    "besin_degerleri": {
+      "kalori": "490 kcal",
+      "protein": "30g",
+      "yag": "30g",
+      "karbonhidrat": "23g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/sebze-tarifleri/sebzeli-tavuk-guvec-tarifi"
+  },
+  {
+    "id": "31b17068-d3df-4303-9751-0572a432ee8e",
+    "baslik": "Karnıyarık Tarifi",
+    "kategori_slug": "sebze-tarifleri",
+    "hazirlik_suresi": "25-30 Dk",
+    "pisirme_suresi": "Fanlı 20-25 Dk, Fansız 25-30 Dk",
+    "gorsel_url": "/resim/karniyarik-tarifi.webp",
+    "kisa_aciklama": "Türk mutfağından sebze yemekleri için günün önerisi; patlıcan karnıyarık nasıl yapılır? Patlıcan karnıyarık tarifi ve yapımı için gerekli malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "3-4 adet orta boy patlıcan",
+      "250-300g orta yağlı kıyma",
+      "2 adet orta boy soğan (yemeklik doğranmış)",
+      "2 adet domates (küp doğranmış)",
+      "2-3 adet yeşil biber (ince kıyılmış)",
+      "2 diş sarımsak",
+      "1 yemek kaşığı domates salçası",
+      "Tuz, karabiber, pul biber",
+      "Taze kıyılmış maydanoz",
+      "Sıvı yağ"
+    ],
+    "besin_degerleri": {
+      "kalori": "350 kcal",
+      "protein": "25g",
+      "yag": "15g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/sebze-tarifleri/karniyarik-tarifi"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "id": "410a9521-0cad-4367-b59f-c84cedd5d127",
+    "baslik": "Kıymalı Gül Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "25 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 35 Dk",
+    "gorsel_url": "/resim/kiymali-gul-borek-tarifi.webp",
+    "kisa_aciklama": "Yemek tarifleri ve yufkalı börek tarifleri için günün önerisi; Hazır yufkadan açık pileseli kıymalı gül böreği nasıl yapılır? Kıymalı gül börek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "300g dana kıyma",
+      "2 adet kuru soğan (minik doğranmış)",
+      "3 yemek kaşığı sıvı yağ",
+      "Tuz, karabiber, pul biber",
+      "Yarım demet maydanoz (isteğe bağlı)",
+      "3 adet taze günlük yufka",
+      "100ml süt",
+      "75ml sıvı yağ",
+      "1 adet yumurta",
+      "Yarım şişe maden suyu (soda)"
+    ],
+    "besin_degerleri": {
+      "kalori": "410 kcal",
+      "protein": "17g",
+      "yag": "16g",
+      "karbonhidrat": "41g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/kiymali-gul-borek-tarifi"
+  },
+  {
+    "id": "02c50590-f662-4546-82f7-adc45f0f1ea9",
+    "baslik": "Peynirli Banitsa Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 35-40 Dk, Fansız 40-45 Dk",
+    "gorsel_url": "/resim/peynirli-banitsa-tarifi.webp",
+    "kisa_aciklama": "Hamur işleri ve yöresel börek tarifleri için günün önerisi; Peynirli Bulgaristan Böreği (Banitsa) Nasıl Yapılır? Peynirli banitsa börek tarifi ve yapımı için gerekli malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "500g baklavalık yufka veya günlük taze yufka",
+      "150g eritilmiş tereyağı veya 50ml sıvı yağ",
+      "125ml maden suyu (isteğe bağlı)",
+      "400g beyaz peynir veya lor peyniri",
+      "4 adet yumurta",
+      "250g yoğurt",
+      "1g karbonat"
+    ],
+    "besin_degerleri": {
+      "kalori": "350 kcal",
+      "protein": "18g",
+      "yag": "25g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/peynirli-banitsa-tarifi"
+  },
+  {
+    "id": "05081465-b1eb-4d02-8421-11f407884486",
+    "baslik": "Burgu Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 40 Dk",
+    "gorsel_url": "/resim/burgu-borek-tarifi.webp",
+    "kisa_aciklama": "Kolay hamur işleri ve değişik börek tarifleri için günün hamur işi önerisi; peynirli ve otlu burgu börek nasıl yapılır? Otlu peynirli burgu börek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "3 adet günlük taze yufka (veya isteğe bağlı olarak milföy hamuru)",
+      "120ml süt",
+      "120ml sıvı yağ",
+      "1 adet yumurta akı",
+      "1 adet yumurta sarısı",
+      "İsteğe bağlı susam veya çörek otu",
+      "150g ufalanmış beyaz peynir veya lor peyniri",
+      "İnce kıyılmış taze maydanoz veya dereotu",
+      "1 tatlı kaşığı (yaklaşık 5g) toz kırmızı biber veya pul biber"
+    ],
+    "besin_degerleri": {
+      "kalori": "300 kcal",
+      "protein": "15g",
+      "yag": "20g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/burgu-borek-tarifi"
+  },
+  {
+    "id": "939da5b1-448d-497d-a647-fbe700b7f13d",
+    "baslik": "Çıtır Peynirli Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 40 Dk",
+    "gorsel_url": "/resim/citir-peynirli-borek-tarifi.webp",
+    "kisa_aciklama": "Hamur işleri ve börek tarifleri için günün önerisi; el açması tadında, dışı çıtır içi ise yumuşacık olan peynirli börek nasıl yapılır? Çıtır peynirli börek tarifive yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "3-4 adet günlük taze yufka (~250g)",
+      "240ml sıvı yağ",
+      "30g un",
+      "15ml sirke",
+      "60ml su",
+      "360g ufalanmış beyaz peynir",
+      "60g rendelenmiş kaşar peyniri",
+      "30g ince kıyılmış maydanoz",
+      "1 adet yumurta sarısı",
+      "susam"
+    ],
+    "besin_degerleri": {
+      "kalori": "350 kcal",
+      "protein": "20g",
+      "yag": "25g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/citir-peynirli-borek-tarifi"
+  },
+  {
+    "id": "3e4b3e1d-ef2c-45d1-a626-ed529055ecc8",
+    "baslik": "Pratik Kıymalı Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "25-30 DK",
+    "pisirme_suresi": "Fanlı 25 Dk, Fansız 30 Dk",
+    "gorsel_url": "/resim/pratik-kiymali-borek-tarifi.webp",
+    "kisa_aciklama": "Et yemekleri malzemeleri ile değişik börek tarifleri için günün önerisi; Pratik kıymalı ve kaşarlı rulo börek nasıl yapılır? Kıymalı kaşarlı pratik börek tarifi ve malzemelerini inceleyin.",
+    "ana_malzemeler": [
+      "350-400g orta yağlı kıyma",
+      "1 adet büyük boy ince doğranmış kuru soğan",
+      "30ml sıvı yağ",
+      "5g tuz",
+      "1g karabiber",
+      "1g pul biber",
+      "5g toz kırmızı biber",
+      "100g rendelenmiş kaşar peyniri (veya cheddar)",
+      "1 paket milföy hamuru (veya soslanmış hazır yufka)",
+      "1 adet yumurta sarısı"
+    ],
+    "besin_degerleri": {
+      "kalori": "400 kcal",
+      "protein": "24g",
+      "yag": "25g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/pratik-kiymali-borek-tarifi"
+  },
+  {
+    "id": "21f991f9-bc01-4812-a808-c85b5a193875",
+    "baslik": "Yufkalı Gül börek tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 40 Dk",
+    "gorsel_url": "/resim/yufkali-gul-borek-tarifi.webp",
+    "kisa_aciklama": "Yufkalı börek tarifleri için günün börek önerisi; pileli gül böreği nasıl yapılır? Hazır yufkadan pileli gül böreği tarifi ve yapılışı için malzemeleri inceleyin",
+    "ana_malzemeler": [
+      "3-4 adet taze günlük yufka",
+      "250g beyaz peynir veya lor peyniri",
+      "Yarım demet ince kıyılmış maydanoz",
+      "240ml süt",
+      "120ml yoğurt",
+      "120ml sıvı yağ",
+      "1 adet yumurta (akı içine, sarısı üzerine)"
+    ],
+    "besin_degerleri": {
+      "kalori": "300 kcal",
+      "protein": "15g",
+      "yag": "10g",
+      "karbonhidrat": "40g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/yufkali-gul-borek-tarifi"
+  },
+  {
+    "id": "4b258d93-4409-4187-b36a-058bffa478c6",
+    "baslik": "Kıymalı Rulo Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "25-30 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 40 Dk",
+    "gorsel_url": "/resim/kiymali-rulo-borek-tarifi.webp",
+    "kisa_aciklama": "Nefis hamur işleri ve değişik börek tarifleri için günün hamur işi önerisi; kıymalı ve kaşarlı rulo börek nasıl yapılır? Ev yapımı rulo kıymalı kaşarlı börek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "300-400 g orta yağlı dana kıyma",
+      "1 adet büyük boy yemeklik doğranmış soğan",
+      "2 adet sivri biber (ince kıyılmış)",
+      "1 yemek kaşığı salça (biber-domates karışık olabilir)",
+      "Tuz",
+      "Karabiber",
+      "Pul biber",
+      "Yarım çay kaşığı kimyon",
+      "Bol miktarda rendelenmiş veya dilimlenmiş kaşar peyniri",
+      "3-4 adet taze günlük yufka"
+    ],
+    "besin_degerleri": {
+      "kalori": "350 kcal",
+      "protein": "20g",
+      "yag": "18g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/kiymali-rulo-borek-tarifi"
+  },
+  {
+    "id": "212193eb-6ba9-4c0e-8b1c-c876601157f4",
+    "baslik": "Milföyden Üçgen Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "15-20 Dk",
+    "pisirme_suresi": "Fanlı 20-25 Dk, Fansız 30 Dk",
+    "gorsel_url": "/resim/milfoyden-ucgen-borek-tarifi.webp",
+    "kisa_aciklama": "Hamur işleri ve börek tarifleri için günün önerisi; milföylü sosis ve parmesan harçlı çıtır üçgen börek nasıl yapılır? Milföylü parmesanlı sosisli börek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "1 paket milföy hamuru",
+      "100g eritilmiş tereyağı",
+      "1 adet yumurta sarısı",
+      "200g küçük doğranmış kaliteli sosis",
+      "100g rendelenmiş Parmesan peyniri",
+      "1 tutam ince kıyılmış maydanoz veya taze kekik",
+      "1 çay kaşığı pul biber",
+      "Bolca siyah susam",
+      "çörek otu"
+    ],
+    "besin_degerleri": {
+      "kalori": "658 kcal",
+      "protein": "18g",
+      "yag": "48g",
+      "karbonhidrat": "23g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/milfoyden-ucgen-borek-tarifi"
+  },
+  {
+    "id": "76ee062c-973b-4f12-a9ec-70b5d720f11b",
+    "baslik": "Sirkeli Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 30-35 Dk, Fansız 40 Dk",
+    "gorsel_url": "/resim/sirkeli-borek-tarifi.webp",
+    "kisa_aciklama": "Sirkeli peynirli gevrek çıtır börek nasıl yapılır? Sirkeli börek tarifi  ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "300g taze yufka",
+      "120ml zeytinyağı",
+      "120ml süt",
+      "15ml elma sirkesi",
+      "10g un",
+      "10g buğday veya mısır nişastası",
+      "6g kabartma tozu",
+      "300g beyaz peynir veya lor peyniri",
+      "25g taze maydanoz",
+      "1g pul biber"
+    ],
+    "besin_degerleri": {
+      "kalori": "440 kcal",
+      "protein": "18g",
+      "yag": "25g",
+      "karbonhidrat": "60g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/sirkeli-borek-tarifi"
+  },
+  {
+    "id": "bbc8c388-27f6-4967-9b4c-3427d8fbd3c8",
+    "baslik": "Tavuklu kol böreği tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "35 Dk",
+    "pisirme_suresi": "Fanlı 35-40 Dk, Fansız 40-45 Dk",
+    "gorsel_url": "/resim/tavuklu-kol-boregi-tarifi.webp",
+    "kisa_aciklama": "Yufkalı börek tarifleri için günün böreği; Tavuklu mantarlı kaşarlı kol böreği nasıl yapılır? Yufkalı kaşarlı mantarlı tavuklu kol böreği tarifi ve malzemelerini inceleyin.",
+    "ana_malzemeler": [
+      "500g taze günlük yufka",
+      "150ml süt",
+      "150ml sıvı yağ",
+      "150ml su",
+      "200g yoğurt",
+      "1 adet yumurta",
+      "500g tavuk göğsü (haşlanıp ince didilmiş)",
+      "400g mantar (küçük küp)",
+      "150g büyük boy kuru soğan",
+      "10g sarımsak"
+    ],
+    "besin_degerleri": {
+      "kalori": "600 kcal",
+      "protein": "35g",
+      "yag": "40g",
+      "karbonhidrat": "50g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/tavuklu-kol-boregi-tarifi"
+  },
+  {
+    "id": "4293d4ed-13fb-4ae3-bbc2-f953c0a41c02",
+    "baslik": "Mayasız Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "60 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 40 Dk",
+    "gorsel_url": "/resim/mayasiz-borek-tarifi.webp",
+    "kisa_aciklama": "Hamur işleri ve börek tarifleri için günün önerisi; fırında mayasız çıtır börek nasıl yapılır? Kat kat ayrılan, dışı gevrek ve içi yumuşacık mayasız börek tarifi ve yapılışı için malzemeleri inceleyin. Hamuru mayasız olduğundan dinlendirme aşaması çıtırlık için oldukça önemlidir.",
+    "ana_malzemeler": [
+      "250ml ılık su",
+      "15ml sirke",
+      "5g tuz",
+      "450-525g un",
+      "150g eritilmiş tereyağı",
+      "30ml sıvı yağ",
+      "400g ufalanmış beyaz peynir veya lor peyniri",
+      "20g ince kıyılmış maydanoz",
+      "1 yumurta sarısı",
+      "bolca susam"
+    ],
+    "besin_degerleri": {
+      "kalori": "640 kcal",
+      "protein": "14g",
+      "yag": "42g",
+      "karbonhidrat": "75g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/mayasiz-borek-tarifi"
+  },
+  {
+    "id": "5110b2df-c77c-46a9-ae0e-e5ffe2cfc969",
+    "baslik": "Kuru Mayalı Börek Tarifi",
+    "kategori_slug": "borek-tarifleri",
+    "hazirlik_suresi": "1 Saat 30 DK",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 40 Dk",
+    "gorsel_url": "/resim/kuru-mayali-borek-tarifi.webp",
+    "kisa_aciklama": "Hamur işleri ve börek tarifleri için günün önerisi; pofuduk, yumuşak ve tam kıvamında kabarmış bir kuru mayalı börek nasıl yapılır? Fırında kuru mayalı peynirli börek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "10g kuru maya",
+      "240ml ılık süt",
+      "240ml ılık su",
+      "12g toz şeker",
+      "6g tuz",
+      "120ml sıvı yağ",
+      "650g un (kontrollü ekleyin)",
+      "300g beyaz peynir veya lor peyniri",
+      "10g ince kıyılmış maydanoz",
+      "1 adet yumurta sarısı"
+    ],
+    "besin_degerleri": {
+      "kalori": "300 kcal",
+      "protein": "15g",
+      "yag": "10g",
+      "karbonhidrat": "40g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/borek-tarifleri/kuru-mayali-borek-tarifi"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "64073745-9061-4819-b99d-7949e8dc3c03",
+    "baslik": "Tuzlu kurabiye tarifi",
+    "kategori_slug": "kurabiye-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 20-25 Dk, Fansız 25-30 Dk",
+    "gorsel_url": "/resim/tuzlu-kurabiye-tarifi.webp",
+    "kisa_aciklama": "Pastane usulü susamlı ve çörek otlu tuzlu kurabiye nasıl yapılır? Ev yapımı tuzlu kurabiye tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "250g tereyağı veya margarin (oda sıcaklığında yumuşamış)",
+      "50ml sıvı yağ",
+      "30ml üzüm veya elma sirkesi",
+      "1 adet yumurta (akı hamura, sarısı üzerine sürülmek üzere ayrılmış)",
+      "15g toz şeker",
+      "5g tuz",
+      "10g kabartma tozu",
+      "420g un (kontrollü şekilde azar azar eklenmeli)",
+      "Ayırılan yumurta sarısı (parlak bir görünüm için)",
+      "Susam"
+    ],
+    "besin_degerleri": {
+      "kalori": "200 kcal",
+      "protein": "4g",
+      "yag": "14g",
+      "karbonhidrat": "28g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kurabiye-tarifleri/tuzlu-kurabiye-tarifi"
+  },
+  {
+    "id": "37be0d48-a5a7-4f4d-8fb8-e89179757075",
+    "baslik": "Erikli Kurabiye Tarifi",
+    "kategori_slug": "kurabiye-tarifleri",
+    "hazirlik_suresi": "20 Dk",
+    "pisirme_suresi": "Fanlı 20-25 Dk, Fansız 25-30 Dk",
+    "gorsel_url": "/resim/erikli-kurabiye-tarifi.webp",
+    "kisa_aciklama": "Erikli kurabiye nasıl yapılır? Erikli kurabiye tarifi ve yapımı için gerekli malzemeler nelerdir?",
+    "ana_malzemeler": [
+      "125g oda sıcaklığında tereyağı",
+      "50ml sıvı yağ",
+      "1 adet yumurta (sarısı içine, beyazı dışına)",
+      "125g pudra şekeri",
+      "30g mısır nişastası",
+      "1 paket vanilya",
+      "1 paket kabartma tozu",
+      "375g un (kontrollü ekleyin)",
+      "15-20 adet taze Papaz eriği (çekirdekleri çıkarılmış ve küçük küçük doğranmış)",
+      "30g iri çekilmiş ceviz içi"
+    ],
+    "besin_degerleri": {
+      "kalori": "200 kcal",
+      "protein": "5g",
+      "yag": "14g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/kurabiye-tarifleri/erikli-kurabiye-tarifi"
+  }
+]

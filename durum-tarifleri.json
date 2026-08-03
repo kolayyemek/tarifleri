@@ -1,0 +1,30 @@
+[
+  {
+    "id": "7efeabfc-f717-4c56-93ed-9d12146d18f9",
+    "baslik": "Urfa dürüm kebap tarifi",
+    "kategori_slug": "durum-tarifleri",
+    "hazirlik_suresi": "20 Dk",
+    "pisirme_suresi": "Tava 15-20 Dk",
+    "gorsel_url": "/resim/urfa-durum-kebap-tarifi.webp",
+    "kisa_aciklama": "Değişik Krep tarifleri için günün önerisi; lavaş yerine krep ile Urfa dürüm kebap nasıl yapılır? Garnitürleri yanında çift kat krepten Urfa dürüm tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "300g zırh kıyması (kuzu ve dana karışık, orta yağlı)",
+      "1 adet kapya biber (ince kıyılmış, suyu sıkılmış)",
+      "1.5g karabiber (yarım çay kaşığı)",
+      "5g tuz (1 çay kaşığı)",
+      "2 adet yumurta (yaklaşık 120g)",
+      "375ml süt (1.5 su bardağı)",
+      "120g un (1 su bardağı)",
+      "1.5g tuz (yarım çay kaşığı)",
+      "çok az tereyağı (yaklaşık 10g)",
+      "piyazlık doğranmış, sumaklı ve maydanozlu soğan salatası"
+    ],
+    "besin_degerleri": {
+      "kalori": "400 kcal",
+      "protein": "25g",
+      "yag": "20g",
+      "karbonhidrat": "35g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/durum-tarifleri/urfa-durum-kebap-tarifi"
+  }
+]

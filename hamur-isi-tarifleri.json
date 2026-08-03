@@ -1,0 +1,85 @@
+[
+  {
+    "id": "e5871a6b-73fa-465c-bdcb-32d08c95cab6",
+    "baslik": "İtalyan Ekmeği Focaccia Tarifi",
+    "kategori_slug": "hamur-isi-tarifleri",
+    "hazirlik_suresi": "30 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 35 Dk",
+    "gorsel_url": "/resim/italyan-ekmegi-focaccia-tarifi.webp",
+    "kisa_aciklama": "Dünya mutfaklarından hamur işleri  tarifleri için günün hamur işi önerisi;\"Focaccia Garden\" İtalyan ekmeği formunda kıymalı ve kaşarlı bahçe resimli ekmek nasıl yapılır? Focaccia tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "600g un",
+      "480ml ılık su",
+      "10g kuru maya",
+      "10g şeker",
+      "9g tuz",
+      "60ml zeytinyağı",
+      "300g dana kıyma",
+      "150g yemeklik doğranmış soğan",
+      "150g kapya biber",
+      "9g tuz"
+    ],
+    "besin_degerleri": {
+      "kalori": "300 kcal",
+      "protein": "10g",
+      "yag": "15g",
+      "karbonhidrat": "50g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/hamur-isi-tarifleri/italyan-ekmegi-focaccia-tarifi"
+  },
+  {
+    "id": "6dcd8ea2-2a9c-4626-a77a-0b6602ee4dd4",
+    "baslik": "Evde Pide tarifi",
+    "kategori_slug": "hamur-isi-tarifleri",
+    "hazirlik_suresi": "1 Saat 15 DK",
+    "pisirme_suresi": "Fanlı 15-20 Dk, Fansız 25-30 Dk",
+    "gorsel_url": "/resim/evde-pide-tarifi.webp",
+    "kisa_aciklama": "Evde kaşarlı sucuklu pide nasıl yapılır? Nefis sucuklu kaşarlı pideyi evde yapmak aslında oldukça keyifli bir süreçtir. Dışı çıtır, içi yumuşak bir hamur ve bol malzeme ile fırından yeni çıkmış o lezzeti yakalamak için gerekli malzemeleri ve tarifi inceleyin.",
+    "ana_malzemeler": [
+      "500g un",
+      "240ml ılık su",
+      "120ml ılık süt",
+      "7g instant maya",
+      "10g toz şeker",
+      "10g tuz",
+      "30ml zeytinyağı",
+      "200g rendelenmiş kaşar peyniri",
+      "150g sucuk (dilimlenmiş)",
+      "1 yumurta sarısı"
+    ],
+    "besin_degerleri": {
+      "kalori": "350 kcal",
+      "protein": "20g",
+      "yag": "18g",
+      "karbonhidrat": "45g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/hamur-isi-tarifleri/evde-pide-tarifi"
+  },
+  {
+    "id": "4f051825-da3a-4d18-8f10-6a8240e75b31",
+    "baslik": "Simit Tarifi",
+    "kategori_slug": "hamur-isi-tarifleri",
+    "hazirlik_suresi": "1 Saat",
+    "pisirme_suresi": "Fanlı 20-25 Dk, Fansız 25-30 Dk",
+    "gorsel_url": "/resim/simit-tarifi.webp",
+    "kisa_aciklama": "Evde dışı çıtır içi yumuşacık simit nasıl yapılır? Ev yapımı simit tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "450g un",
+      "240ml ılık su",
+      "1 paket kuru maya",
+      "15g toz şeker",
+      "5g tuz",
+      "30ml sıvı yağ",
+      "120ml üzüm veya dut pekmezi",
+      "120ml su",
+      "Bolca kavrulmuş susam"
+    ],
+    "besin_degerleri": {
+      "kalori": "250 kcal",
+      "protein": "8g",
+      "yag": "7g",
+      "karbonhidrat": "40g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/hamur-isi-tarifleri/simit-tarifi"
+  }
+]

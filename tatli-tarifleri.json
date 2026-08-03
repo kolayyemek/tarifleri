@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5bb59dec-e70e-4bb1-8edc-b1e401875d1b",
+    "baslik": "Şekerpare Tarifi",
+    "kategori_slug": "tatli-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 40 Dk",
+    "gorsel_url": "/resim/sekerpare-tarifi.webp",
+    "kisa_aciklama": "Tatlıcı usulü ev yapımı fındıklı şekerpare tatlısı nasıl yapılır? Şekerpare tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "125g tereyağı (oda sıcaklığında)",
+      "1/2 su bardağı pudra şekeri",
+      "1 adet bütün yumurta",
+      "1 adet yumurta akı",
+      "1 su bardağı irmik",
+      "2.5 su bardağı un",
+      "1 paket kabartma tozu",
+      "1 paket vanilya",
+      "3 su bardağı şeker",
+      "3 su bardağı su"
+    ],
+    "besin_degerleri": {
+      "kalori": "300 kcal",
+      "protein": "5g",
+      "yag": "15g",
+      "karbonhidrat": "45g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/tatli-tarifleri/sekerpare-tarifi"
+  },
+  {
+    "id": "5685c096-c737-4320-8e0f-c6e4ecb33db0",
+    "baslik": "Atayef tarifi",
+    "kategori_slug": "tatli-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "12-15 Dk",
+    "gorsel_url": "/resim/atayef-tarifi.webp",
+    "kisa_aciklama": "Dünya mutfaklarından tatlı tarifleri ve krep tarifleri için günün önerisi krep tatlısı Atayef nasıl yapılır? Klasik Ortadoğu krep tatlısı Atayef tarifi ve yapılışı için malzemeleri inceleyin",
+    "ana_malzemeler": [
+      "2 su bardağı un (240g)",
+      "Yarım su bardağı ince irmik (60g)",
+      "2,5 - 3 su bardağı ılık su (600-720ml)",
+      "1 yemek kaşığı şeker (10g)",
+      "1 tatlı kaşığı kuru maya (3g)",
+      "1 çay kaşığı kabartma tozu (4g)",
+      "Bir fiske tuz (0.5g)",
+      "2 su bardağı süt (400ml)",
+      "1 paket krema (200ml)",
+      "3 yemek kaşığı nişasta (30g)"
+    ],
+    "besin_degerleri": {
+      "kalori": "420 kcal",
+      "protein": "9g",
+      "yag": "11g",
+      "karbonhidrat": "75g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/tatli-tarifleri/atayef-tarifi"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bd6f72a9-5571-45b9-9e2f-034808a6b6a4",
+    "baslik": "Mumbar Tarifi",
+    "kategori_slug": "dolma-tarifleri",
+    "hazirlik_suresi": "60 Dk",
+    "pisirme_suresi": "60-90 Dk",
+    "gorsel_url": "/resim/mumbar-tarifi.webp",
+    "kisa_aciklama": "Yöresel yemekler ve dolmalar için günün etki yemeği mumbar Dolması nasıl yapılır? Mumbar Tarifi ve malzemelerini inceleyin.",
+    "ana_malzemeler": [
+      "1 takım kuzu mumbar (koyun bağırsağı)",
+      "Bolca kaya tuzu",
+      "Sirke",
+      "Limon suyu",
+      "2 su bardağı pirinç (yıkanmış ve süzülmüş)",
+      "250 gr orta yağlı kuzu veya dana kıyma",
+      "2 adet kuru soğan (çok ince yemeklik doğranmış)",
+      "3 diş sarımsak (ezilmiş)",
+      "1 yemek kaşığı domates salçası",
+      "1 yemek kaşığı biber salçası"
+    ],
+    "besin_degerleri": {
+      "kalori": "400 kcal",
+      "protein": "18g",
+      "yag": "17g",
+      "karbonhidrat": "45g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/dolma-tarifleri/mumbar-tarifi"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1b5a6e0c-0284-498f-a3fa-f38036702d02",
+    "baslik": "Barbekü sos tarifi",
+    "kategori_slug": "sos-tarifleri",
+    "hazirlik_suresi": "5 DK",
+    "pisirme_suresi": "10-15 Dk",
+    "gorsel_url": "/resim/barbeku-sos-tarifi.webp",
+    "kisa_aciklama": "Sos tarifleri için günün sosu; evde barbekü sos nasıl yapılır? Ev yapımı barbekü sos tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "400g ketçap",
+      "125ml elma sirkesi",
+      "100g esmer şeker",
+      "30g süzme bal",
+      "15ml Worcestershire sosu",
+      "15g hardal",
+      "5g tütsülenmiş toz kırmızı biber",
+      "2g sarımsak tozu",
+      "1g karabiber",
+      "2g tuz"
+    ],
+    "besin_degerleri": {
+      "kalori": "80 kcal",
+      "protein": "1g",
+      "karbonhidrat": "20g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/sos-tarifleri/barbeku-sos-tarifi"
+  },
+  {
+    "id": "8c6e2733-bc7c-4c37-82e9-83d9e1740e4e",
+    "baslik": "Pesto Sos Tarifi",
+    "kategori_slug": "sos-tarifleri",
+    "hazirlik_suresi": "5-10 DK",
+    "pisirme_suresi": "0 Dk",
+    "gorsel_url": "/resim/pesto-sos-tarifi.webp",
+    "kisa_aciklama": "Evde pesto sos nasıl yapılır? Pesto sos tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "2 su bardağı taze fesleğen yaprağı (yaklaşık 80-100 gr)",
+      "2 diş sarımsak",
+      "1/2 su bardağı çam fıstığı (kavrulmuş olabilir)",
+      "1/2 su bardağı rendelenmiş Parmesan peyniri",
+      "1/2 su bardağı sızma zeytinyağı",
+      "1 çay kaşığı tuz",
+      "İsteğe bağlı: Karabiber"
+    ],
+    "besin_degerleri": {
+      "kalori": "320 kcal",
+      "protein": "9g",
+      "yag": "30g",
+      "karbonhidrat": "4g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/sos-tarifleri/pesto-sos-tarifi"
+  },
+  {
+    "id": "6cf95953-e8f3-48f3-a87a-e8bd9712e52a",
+    "baslik": "Bolonez Sos Tarifi",
+    "kategori_slug": "sos-tarifleri",
+    "hazirlik_suresi": "15 Dk",
+    "pisirme_suresi": "3 Saat 30 Dk",
+    "gorsel_url": "/resim/bolonez-sos-tarifi.webp",
+    "kisa_aciklama": "Bolonez Sos Nasıl Yapılır? Ev yapımı bolonez sos tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "500g orta yağlı dana kıyma",
+      "1 adet büyük soğan",
+      "1 adet havuç",
+      "2 dal kereviz sapı, minik doğranmış",
+      "250ml süt",
+      "150ml sek beyaz şarap",
+      "30g domates salçası",
+      "400g domates püresi",
+      "45ml zeytinyağı",
+      "15g tereyağı"
+    ],
+    "besin_degerleri": {
+      "kalori": "450 kcal",
+      "protein": "30g",
+      "yag": "25g",
+      "karbonhidrat": "30g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/sos-tarifleri/bolonez-sos-tarifi"
+  }
+]

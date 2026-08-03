@@ -1,0 +1,110 @@
+[
+  {
+    "id": "3331a39d-1708-4a82-a804-c76e0bb297e1",
+    "baslik": "Fırında biftek tarifi",
+    "kategori_slug": "et-tarifleri",
+    "hazirlik_suresi": "30 Dk",
+    "pisirme_suresi": "Fanlı 20 Dk, Fansız 30 Dk",
+    "gorsel_url": "/resim/firinda-biftek-tarifi.webp",
+    "kisa_aciklama": "Fırında et yemekleri için günün önerisi; garnitürlü fırın biftek nasıl pişirilir? Fırında biftek tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "1 adet kalın kesim antrikot veya biftek (yaklaşık 300-400 gr)",
+      "2 yemek kaşığı sızma zeytinyağı",
+      "Tuz ve taze çekilmiş karabiber",
+      "Taze biberiye ve kekik dalları",
+      "Bebek patatesler (ikiye bölünmüş)",
+      "Çeri domatesler (dalında)",
+      "Kuşkonmaz",
+      "Renkli dolmalık biberler (parmak şeklinde doğranmış)",
+      "Limon dilimi (servis için)"
+    ],
+    "besin_degerleri": {
+      "kalori": "650 kcal",
+      "protein": "60g",
+      "yag": "40g",
+      "karbonhidrat": "35g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/et-tarifleri/firinda-biftek-tarifi"
+  },
+  {
+    "id": "b7e4b05b-771c-487f-8068-b7cbe6cea14b",
+    "baslik": "Dana Antrikot tarifi",
+    "kategori_slug": "et-tarifleri",
+    "hazirlik_suresi": "30 Dk",
+    "pisirme_suresi": "45-55 Dk",
+    "gorsel_url": "/resim/dana-antrikot-tarifi.webp",
+    "kisa_aciklama": "Fırında et yemekleri için günün değişik et yemeği tarifi; tuzda dana antrikot nasıl pişirilir? Dana antrikot tarifi ve yapılışı için malzemeleri inceleyin",
+    "ana_malzemeler": [
+      "1000-1500g bütün dana antrikot",
+      "2000g iri kaya tuzu",
+      "100g yumurta akı",
+      "2.5ml su",
+      "3-4 dal taze biberiye",
+      "2 dal taze kekik",
+      "4 diş ezilmiş sarımsak",
+      "tane karabiber"
+    ],
+    "besin_degerleri": {
+      "kalori": "450 kcal",
+      "protein": "65g",
+      "yag": "22g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/et-tarifleri/dana-antrikot-tarifi"
+  },
+  {
+    "id": "049548c4-5a01-4368-b86f-b46df8421569",
+    "baslik": "Püreli Rosto Tarifi",
+    "kategori_slug": "et-tarifleri",
+    "hazirlik_suresi": "15-20 Dk",
+    "pisirme_suresi": "Düdüklü Tencerede 45-60 Dk, Normal Tencerede 120-150 Dk",
+    "gorsel_url": "/resim/pureli-rosto-tarifi.webp",
+    "kisa_aciklama": "Et yemekleri için günün et yemeği önerisi; patates Püreli Rosto nasıl yapılır? Patates püreli rosto tarifi ve yapımı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "800g - 1 kg Dana Rosto (Nuar veya Antrikot tercih edilebilir)",
+      "30ml Sıvı yağ",
+      "14g Tereyağı",
+      "1 adet Kuru soğan (dörde bölünmüş)",
+      "1 adet Havuç (iri doğranmış)",
+      "2 diş Sarımsak",
+      "15g Domates salçası",
+      "Tuz, karabiber, kekik",
+      "500-750ml Sıcak su",
+      "4-5 adet Orta boy patates"
+    ],
+    "besin_degerleri": {
+      "kalori": "550 kcal",
+      "protein": "45g",
+      "yag": "30g",
+      "karbonhidrat": "40g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/et-tarifleri/pureli-rosto-tarifi"
+  },
+  {
+    "id": "54df8953-d084-4fce-93e1-c4dcf3592aa0",
+    "baslik": "Fırında lazanya tarifi",
+    "kategori_slug": "et-tarifleri",
+    "hazirlik_suresi": "30 Dk",
+    "pisirme_suresi": "Fanlı 30 Dk, Fansız 35 Dk",
+    "gorsel_url": "/resim/firinda-lazanya-tarifi.webp",
+    "kisa_aciklama": "Dünya mutfaklarından et yemekleri tarifleri için günün önerisi; bolonez soslu fırın lazanya nasıl yapılır? Fırında lazanya tarifi ve yapılışı için malzemeleri inceleyin.",
+    "ana_malzemeler": [
+      "500g dana kıyma",
+      "1 adet büyük boy soğan (yemeklik doğranmış)",
+      "2 diş sarımsak (ezilmiş)",
+      "200g rendelenmiş havuç",
+      "30g domates salçası",
+      "400g rendelenmiş domates (veya 1 kutu domates püresi)",
+      "10g tuz",
+      "5g karabiber",
+      "5g kekik",
+      "25ml zeytinyağı"
+    ],
+    "besin_degerleri": {
+      "kalori": "550 kcal",
+      "protein": "28g",
+      "yag": "35g",
+      "karbonhidrat": "40g"
+    },
+    "detayli_tarif_url": "https://yemekyarismasi.com/et-tarifleri/firinda-lazanya-tarifi"
+  }
+]
