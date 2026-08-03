@@ -1,4 +1,4 @@
-# 🍲 KolayYemek - Açık Veri API'si
+# 🍲 Kolay Yemek Tarifleri - Açık Veri API'si
 
 Bu depo, [YemekYarismasi.com](https://yemekyarismasi.com) üzerinde yayınlanan gerçek yemek tariflerinin özet verilerini açık kaynak (Open Data) olarak geliştiricilere sunmaktadır.
 
