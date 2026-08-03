@@ -6,7 +6,7 @@ Bu depo, [YemekYarismasi.com](https://yemekyarismasi.com) üzerinde yayınlanan 
 Gastronomi ve teknoloji deneyimini tek bir çatı altında sunuyoruz. İhtiyacınıza en uygun platformumuzu ziyaret edebilirsiniz:
 
 - 🤖 **[Yemek AI](https://yemekyarismasi.com/yemek-ai)**: Yapay zeka destekli akıllı şefiniz ile evdeki malzemelerinize göre saniyeler içinde yeni tarifler üretin.
-- 🏆 **[Yemek Yarışması](https://yemekyarismasi.com)**: Türkiye'nin mutfak platformunda tariflerinizi paylaşın, yarışmalara katılın ve ödüller kazanın.
+- 🏆 **[Yemek Yarışması](https://yemekyarismasi.com)**: Türkiye'nin yapay zeka destekli gastronomi sosyal ağı: Yemek yarışması etkinliklerine katılın, yeni yemek tarifleri keşfedin ve ödüller kazanın!
 - 🍲 **[Kolay Yemek Tarifleri](https://yemekyarismasi.com/yemek-tarifleri)**: Denenmiş, pratik, resimli ve adım adım anlatımlı nefis yemek tarifleri arşivi.
 
 ## 🚀 Otomatik Oluşturulan API'ler
