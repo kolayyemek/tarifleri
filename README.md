@@ -2,8 +2,6 @@
 
 Bu depo, [YemekYarismasi.com](https://yemekyarismasi.com) üzerinde yayınlanan gerçek yemek tariflerinin özet verilerini açık kaynak (Open Data) olarak geliştiricilere sunmaktadır.
 
-Mobil uygulama, web sitesi veya beslenme/kalori takip botu geliştiren yazılımcılar; Türkiye'nin en sevilen tariflerinin temel bilgilerini (besin değerleri dahil) uygulamalarında ücretsiz olarak kullanabilirler.
-
 ## 🚀 Otomatik Oluşturulan API'ler
 
 Tüm veriler `yemekyarismasi.com` veritabanından dinamik olarak çekilmektedir:
@@ -31,28 +29,8 @@ Tüm veriler `yemekyarismasi.com` veritabanından dinamik olarak çekilmektedir:
 - 🍽️ **[MEZE TARIFLERI API](./meze-tarifleri.json)**
 - 🍽️ **[DURUM TARIFLERI API](./durum-tarifleri.json)**
 
-### JSON Yapısı Örneği
-
-```json
-{
-  "id": 25,
-  "baslik": "Gerçek Veri Başlığı",
-  "hazirlik_suresi": "30 dk",
-  "gorsel_url": "https://yemekyarismasi.com/img/foto.jpg",
-  "besin_degerleri": {
-    "kalori": "320 kcal",
-    "protein": "12g",
-    "yag": "18g",
-    "karbonhidrat": "28g"
-  },
-  "detayli_tarif_url": "https://yemekyarismasi.com/kategori/tarif-slug"
-}
-```
-
 ## ⚠️ Kullanım Koşulları (ÖNEMLİ)
 
-Geliştiriciler bu veriyi projelerinde özgürce kullanabilirler. Ancak:
-1. Uygulamanızda veya sitenizde tarifi listelerken, **tarifin yapılış aşamaları için kullanıcıları mutlaka `detayli_tarif_url` adresine, yani YemekYarismasi.com'a yönlendirmelisiniz.**
-2. Verilerin ticari amaçla kopyalanıp satılması yasaktır.
+Geliştiriciler bu veriyi projelerinde özgürce kullanabilirler. Ancak: Uygulamanızda veya sitenizde tarifi listelerken, **tarifin yapılış aşamaları için kullanıcıları mutlaka `detayli_tarif_url` adresine, yani YemekYarismasi.com'a yönlendirmelisiniz.**
 
 Destek ve iletişim için [sitemizi ziyaret edin](https://yemekyarismasi.com).
