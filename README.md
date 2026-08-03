@@ -13,28 +13,28 @@ Gastronomi ve teknoloji deneyimini tek bir çatı altında sunuyoruz. İhtiyacı
 
 Tüm veriler `yemekyarismasi.com` veritabanından dinamik olarak çekilmektedir:
 
-- 🍽️ **[Salata](./salata-tarifleri.json)**
-- 🍽️ **[Kurabiye](./kurabiye-tarifleri.json)**
-- 🍽️ **[Krep](./krep-tarifleri.json)**
-- 🍽️ **[Burger](./burger-tarifleri.json)**
-- 🍽️ **[Kahvaltilik](./kahvaltilik-tarifleri.json)**
-- 🍽️ **[Tavuk](./tavuk-tarifleri.json)**
-- 🍽️ **[Borek](./borek-tarifleri.json)**
-- 🍽️ **[Kek](./kek-tarifleri.json)**
-- 🍽️ **[Et](./et-tarifleri.json)**
-- 🍽️ **[Pasta](./pasta-tarifleri.json)**
-- 🍽️ **[Pogaca](./pogaca-tarifleri.json)**
-- 🍽️ **[Tatli](./tatli-tarifleri.json)**
-- 🍽️ **[Dolma](./dolma-tarifleri.json)**
-- 🍽️ **[Balik](./balik-tarifleri.json)**
-- 🍽️ **[Makarna](./makarna-tarifleri.json)**
-- 🍽️ **[Kiymali](./kiymali-tarifler.json)**
-- 🍽️ **[Sebze](./sebze-tarifleri.json)**
-- 🍽️ **[Baklava](./baklava-tarifleri.json)**
-- 🍽️ **[Sos](./sos-tarifleri.json)**
-- 🍽️ **[Hamur isi](./hamur-isi-tarifleri.json)**
-- 🍽️ **[Meze](./meze-tarifleri.json)**
-- 🍽️ **[Durum](./durum-tarifleri.json)**
+- 🍽️ **[Salata Tarifleri](https://yemekyarismasi.com/salata-tarifleri)** | `[JSON API](./salata-tarifleri.json)`
+- 🍽️ **[Kurabiye Tarifleri](https://yemekyarismasi.com/kurabiye-tarifleri)** | `[JSON API](./kurabiye-tarifleri.json)`
+- 🍽️ **[Krep Tarifleri](https://yemekyarismasi.com/krep-tarifleri)** | `[JSON API](./krep-tarifleri.json)`
+- 🍽️ **[Burger Tarifleri](https://yemekyarismasi.com/burger-tarifleri)** | `[JSON API](./burger-tarifleri.json)`
+- 🍽️ **[Kahvaltilik Tarifleri](https://yemekyarismasi.com/kahvaltilik-tarifleri)** | `[JSON API](./kahvaltilik-tarifleri.json)`
+- 🍽️ **[Tavuk Tarifleri](https://yemekyarismasi.com/tavuk-tarifleri)** | `[JSON API](./tavuk-tarifleri.json)`
+- 🍽️ **[Borek Tarifleri](https://yemekyarismasi.com/borek-tarifleri)** | `[JSON API](./borek-tarifleri.json)`
+- 🍽️ **[Kek Tarifleri](https://yemekyarismasi.com/kek-tarifleri)** | `[JSON API](./kek-tarifleri.json)`
+- 🍽️ **[Et Tarifleri](https://yemekyarismasi.com/et-tarifleri)** | `[JSON API](./et-tarifleri.json)`
+- 🍽️ **[Pasta Tarifleri](https://yemekyarismasi.com/pasta-tarifleri)** | `[JSON API](./pasta-tarifleri.json)`
+- 🍽️ **[Pogaca Tarifleri](https://yemekyarismasi.com/pogaca-tarifleri)** | `[JSON API](./pogaca-tarifleri.json)`
+- 🍽️ **[Tatli Tarifleri](https://yemekyarismasi.com/tatli-tarifleri)** | `[JSON API](./tatli-tarifleri.json)`
+- 🍽️ **[Dolma Tarifleri](https://yemekyarismasi.com/dolma-tarifleri)** | `[JSON API](./dolma-tarifleri.json)`
+- 🍽️ **[Balik Tarifleri](https://yemekyarismasi.com/balik-tarifleri)** | `[JSON API](./balik-tarifleri.json)`
+- 🍽️ **[Makarna Tarifleri](https://yemekyarismasi.com/makarna-tarifleri)** | `[JSON API](./makarna-tarifleri.json)`
+- 🍽️ **[Kiymali Tarifler](https://yemekyarismasi.com/kiymali-tarifler)** | `[JSON API](./kiymali-tarifler.json)`
+- 🍽️ **[Sebze Tarifleri](https://yemekyarismasi.com/sebze-tarifleri)** | `[JSON API](./sebze-tarifleri.json)`
+- 🍽️ **[Baklava Tarifleri](https://yemekyarismasi.com/baklava-tarifleri)** | `[JSON API](./baklava-tarifleri.json)`
+- 🍽️ **[Sos Tarifleri](https://yemekyarismasi.com/sos-tarifleri)** | `[JSON API](./sos-tarifleri.json)`
+- 🍽️ **[Hamur Isi Tarifleri](https://yemekyarismasi.com/hamur-isi-tarifleri)** | `[JSON API](./hamur-isi-tarifleri.json)`
+- 🍽️ **[Meze Tarifleri](https://yemekyarismasi.com/meze-tarifleri)** | `[JSON API](./meze-tarifleri.json)`
+- 🍽️ **[Durum Tarifleri](https://yemekyarismasi.com/durum-tarifleri)** | `[JSON API](./durum-tarifleri.json)`
 
 ## ⚠️ Kullanım Koşulları (ÖNEMLİ)
 
